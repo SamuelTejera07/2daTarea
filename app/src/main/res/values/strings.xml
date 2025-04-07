@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">2daTarea</string>
+    <string name="boton_continuar">Continuar\n</string>
+    <string name="boton_fibonacci">Fibonacci</string>
+    <string name="boton_ecuacion">Ecuación Cuadratica</string>
+    <string name="boton_ordenar">Ordenar Datos</string>
+    <string name="boton_calcular">Calcular</string>
+    <string name="txt_ordenar_datos">Ordenar Todos</string>
+    <string name="txt_ordenar">Ordenar Datos</string>
+    <string name="txt_numeros">Ingrese numeros separados por comas</string>
+    <string name="edtxt_ejemplos">Ejemplo: 5, 2, 8, 1, 9</string>
+    <string name="boton_ejecutar">Ejecutar</string>
+    <string name="rgb_menor_a_mayor">Menor a mayor</string>
+    <string name="rgb_mayor_a_menor">Mayor a menor</string>
+    <string name="txt_serie">Serie de Fibonacci</string>
+    <string name="txt_ingrese_fibonacci">Ingrese el número de elementos a mostrar:</string>
+    <string name="txtv_nombre">Por favor ingrese su nombre:</string>
+    <string name="txt_ingrese_nombre">Ingrese su nombre</string>
+    <string name="txtv_bienvenido">Bienvenido al Taller de Aplicaciones</string>
+    <string name="txtv_ecuacion">Ecuación Cuadrática</string>
+    <string name="txtv_coeficientes">Ingrese los coeficientes de ax² + bx + c = 0</string>
+</resources>

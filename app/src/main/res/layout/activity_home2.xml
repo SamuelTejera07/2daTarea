@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/material_dynamic_neutral80"
+    android:gravity="center_horizontal"
+    tools:context=".HomeActivity">
+
+    <TextView
+        android:id="@+id/textViewBienvenida"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="¡Hola! Selecciona una opción"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="24dp"/>
+
+    <ImageView
+        android:id="@+id/imgvactividad"
+        android:layout_width="301dp"
+        android:layout_height="258dp"
+        android:layout_marginBottom="32dp"
+        android:background="@mipmap/fondos_foreground"
+        android:src="@drawable/ic_launcher_foreground" />
+
+    <Button
+        android:id="@+id/btnFibonacci"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="@string/boton_fibonacci" />
+
+    <Button
+        android:id="@+id/btnEcuacion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="@string/boton_ecuacion" />
+
+    <Button
+        android:id="@+id/btnOrdenar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="@string/boton_ordenar" />
+
+</LinearLayout>
